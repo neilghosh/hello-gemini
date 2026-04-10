@@ -1,10 +1,10 @@
 ## Tech Stack
 
-Programming Language : NodeJs
-Backend Web Framework : express
-Front End : Simple HTML/JS/CSS, no 3rd part framework
+- **Programming Language:** Node.js
+- **Backend Web Framework:** Express
+- **Front End:** Simple HTML/JS/CSS (No third-party frameworks)
 
-## Best Practice
+## Best Practices
 
-Always do Test Driven Developement
-Always verify API response after running local server
+- Always follow Test-Driven Development (TDD)
+- Always verify API responses after running the local server
